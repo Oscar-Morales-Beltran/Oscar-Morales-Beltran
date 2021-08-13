@@ -1,4 +1,9 @@
 ### Hi there 👋
+I'm a entry-level programmer eager to learn new thigns, always experimenting with new technologies.
+
+You can ask me whatever you want [here](https://github.com/Oscar-Morales-Beltran/Oscar-Morales-Beltran/issues).
+
+You cant reach me on [LinkedIn](https://www.linkedin.com/in/oscar-morales-beltr%C3%A1n/).
 
 <!--
 **Oscar-Morales-Beltran/Oscar-Morales-Beltran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
